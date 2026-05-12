@@ -1,3 +1,0 @@
-cargo:rustc-link-search=/Users/chiragbangera/Developer/micro_bit/example/target/thumbv7em-none-eabihf/debug/build/nrf52833-pac-e7ecbc93e14653bc/out
-cargo:rerun-if-changed=device.x
-cargo:rerun-if-changed=build.rs
