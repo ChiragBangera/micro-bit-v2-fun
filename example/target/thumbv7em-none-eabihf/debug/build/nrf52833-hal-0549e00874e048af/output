@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/Users/chiragbangera/Developer/micro_bit/example/target/thumbv7em-none-eabihf/debug/build/nrf52833-hal-0549e00874e048af/out
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=memory.x
