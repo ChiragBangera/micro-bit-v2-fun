@@ -8,6 +8,7 @@ authors = ["Chirag Bangera <chiragfootball.bangera@gmail.com>"]
 cortex-m-rt = "0.7.5"
 embedded-hal = "1.0.0"
 microbit-v2 = "0.16.0"
+nrf52833-hal = "0.19.0"
 panic-halt = "1.0.0"
 panic-rtt-target = "0.2.0"
 rtt-target = "0.6.2"
