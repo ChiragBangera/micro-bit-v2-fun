@@ -25,7 +25,7 @@ fn main() -> ! {
         ((15, Port::P0), (30, Port::P0)),
         ((24, Port::P0), (30, Port::P0)),
         ((19, Port::P0), (30, Port::P0)),
-        ((19, Port::P0), (5, Port::P0)),
+        ((19, Port::P0), (5, Port::P1)),
         ((19, Port::P0), (31, Port::P0)),
         ((19, Port::P0), (11, Port::P0)),
         ((19, Port::P0), (28, Port::P0)),
